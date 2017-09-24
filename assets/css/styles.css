@@ -9,8 +9,8 @@
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
-  color: #434343;
-  background: #37a773;
+  color: #151415;
+  background: #ead6c8;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,7 +26,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #37a773;
+  color: #947c77;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -60,8 +60,8 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #a7378f;
-  border: 1px solid #a7378f;
+  background: #060806;
+  border: 1px solid #060806;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -117,8 +117,8 @@ iframe {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: rgb(226, 141, 133);
-  border-top: 10px solid #37a773;
+  background: #d6b2aa;
+  border-top: 10px solid #0a0806;
 }
 .header .btn {
   margin-top: 60px;
@@ -128,13 +128,13 @@ iframe {
   margin-right: 30px;
 }
 .header .profile-content .name {
-  color: #49515a;
+  color: #111213;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
 }
 .header .profile-content .desc {
-  color: #778492;
+  color: #3c2a39;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -179,7 +179,7 @@ iframe {
 .section .heading {
   margin-top: 0;
   margin-bottom: 30px;
-  color: #545e69;
+  color: #15181b;
   font-size: 24px;
 }
 .section .content .more-link .fa {
@@ -381,7 +381,7 @@ iframe {
 }
 .skills .skillset .level-bar-inner {
   height: 15px;
-  background: #66cb8c;
+  background: #c5472b;
 }
 /* Testimonials section */
 .testimonials .item {
