@@ -10,7 +10,7 @@
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
-  background: #DAE3E7;
+  background: #37a773;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,7 +26,7 @@ h6 {
   color: #778492;
 }
 a {
-  color: #3AAA64;
+  color: #37a773;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -60,8 +60,8 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #54ba4e;
-  border: 1px solid #54ba4e;
+  background: #a7378f;
+  border: 1px solid #a7378f;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
@@ -117,8 +117,8 @@ iframe {
 /* ======= Header ======= */
 .header {
   padding: 30px 0;
-  background: #49515a;
-  border-top: 10px solid #778492;
+  background: rgb(226, 141, 133);
+  border-top: 10px solid #37a773;
 }
 .header .btn {
   margin-top: 60px;
